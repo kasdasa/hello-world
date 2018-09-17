@@ -3,5 +3,5 @@ the first time to use github
 
 hi humans 
 
-a greate man begins his step here.
+a great man begins his step here.
 2018.8/28.
